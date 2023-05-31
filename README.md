@@ -1,16 +1,21 @@
-### Hi there 👋
+### Bem vindo ao mundo do mago
 
-<!--
-**brainzin/brainzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Olá pesoal,bem vindo ao meu perfil**
 
-Here are some ideas to get you started:
+_Gostaria de falar um pouco de mim_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Paticularmente gosto muito de Esporte (Futebol,basquete, etc)
+- Gosto de ouvir músicas 
+- Gosto de sair para tirar um tempo livre
+- Gosto de ver meus amigos 
+- Gosto de trabalhar 
+- Amo minha família 
+- Gosto de estudar astronomia
+
+
+## SE QUISER CONHECER MAIS, ENTRA NA PÁGINA; 
+
+@braian_bergamo 
+
+
+![descrição do GIF](https://media2.giphy.com/media/Z986S0v0itFVATd1jF/giphy.gif?cid=ecf05e47oed372my97lv9p3mnz72nrmlpwvmwbux9jpz1hgw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
